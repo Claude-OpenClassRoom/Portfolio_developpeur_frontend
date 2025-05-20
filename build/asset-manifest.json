@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a1ee930.css",
+    "main.js": "/static/js/main.c05c1098.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/darklogo.webp": "/static/media/darklogo.fbcfa30d01fd606ed54c.webp",
+    "static/media/logo.webp": "/static/media/logo.eeea32ccc2826b81799e.webp",
+    "static/media/cv.pdf": "/static/media/cv.21ef835630b3e0ff7d17.pdf",
+    "static/media/darkmode-404-page-not-found.png": "/static/media/darkmode-404-page-not-found.872596d72a3647fbad37.png",
+    "static/media/404-page-not-found.png": "/static/media/404-page-not-found.1626debd15d7d46f8304.png",
+    "static/media/moi.webp": "/static/media/moi.a0ea5a5f7d1421365f03.webp",
+    "static/media/pdf.svg": "/static/media/pdf.a8d18c950eae524d6bbb1b2622836a3d.svg",
+    "static/media/moon.svg": "/static/media/moon.8c82782b00ab841754c912cad4802039.svg",
+    "index.html": "/index.html",
+    "static/media/sun.svg": "/static/media/sun.98f968af8e729d5d9d48980e655e430b.svg",
+    "static/media/lightarrow.svg": "/static/media/lightarrow.8b51da8ec1dca18a704206b0b97f83f9.svg",
+    "static/media/darkarrow.svg": "/static/media/darkarrow.33d6d3d56db21bb4108d2da2a78103f5.svg",
+    "main.4a1ee930.css.map": "/static/css/main.4a1ee930.css.map",
+    "main.c05c1098.js.map": "/static/js/main.c05c1098.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a1ee930.css",
+    "static/js/main.c05c1098.js"
+  ]
+}
