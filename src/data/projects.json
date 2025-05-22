@@ -130,6 +130,7 @@
       "../assets/projects/portfolio-sophie-bluel/mock6.webp",
       "../assets/projects/portfolio-sophie-bluel/mock7.webp"
     ],
+    "site": "https://claude-openclassroom.github.io/archi/",
     "github": "https://github.com/Claude-OpenClassRoom/archi"
   },
   {
@@ -158,6 +159,7 @@
       "../assets/projects/menu-maker/mock5.webp",
       "../assets/projects/menu-maker/mock6.webp"
     ],
+    "site": "https://claude-openclassroom.github.io/Restaurateur-Qwenta/",
     "github": "https://github.com/Claude-OpenClassRoom/Restaurateur-Qwenta"
   },
   {
@@ -186,7 +188,7 @@
       "../assets/projects/kasa/mock6.webp",
       "../assets/projects/kasa/mock7.webp"
     ],
-    "site": "",
+    "site": "https://claude-openclassroom.github.io/Kasa_Locat_Appart/",
     "github": "https://github.com/Claude-OpenClassRoom/Kasa_Locat_Appart/tree/main/kasa-location"
   },
   {
@@ -237,7 +239,7 @@
       "../assets/projects/724events/mock6.webp",
       "../assets/projects/724events/mock7.webp"
     ],
-    "site": "",
+    "site": "https://claude-openclassroom.github.io/724events_site2/",
     "github": "https://github.com/Claude-OpenClassRoom/724events_site2"
   },
   {
