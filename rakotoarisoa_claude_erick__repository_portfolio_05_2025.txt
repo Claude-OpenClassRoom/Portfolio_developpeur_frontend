@@ -1,0 +1,14 @@
+Claude Erick RAKOTOARISOA
+
+      
+ PROJET 12 : Créez et publiez votre portfolio de développeur
+
+
+1)- Le lien vers mon repository GitHub. (projet 12 : Portfolio_developpeur_frontend )
+
+    https://github.com/Claude-OpenClassRoom/Portfolio_developpeur_frontend
+  
+
+2) - Le lien vers mon site GitHub Pages est :
+
+    https://claude-openclassroom.github.io/Portfolio_developpeur_frontend/
